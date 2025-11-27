@@ -47,3 +47,47 @@ The platform supports menu browsing, cart management, order placement, food item
 
 ## 📁 Project Structure
 
+The **food-del** project is organized into three main parts:  
+1. **frontend** – User-facing website  
+2. **admin** – Admin dashboard  
+3. **backend** – Server-side API  
+
+Below is the full project directory structure:
+food-del/
+│
+├── frontend/ # User-facing React application (Vite)
+│ ├── .eslintrc.cjs
+│ ├── .gitignore
+│ ├── index.html
+│ ├── package.json
+│ ├── package-lock.json
+│ ├── vite.config.js
+│ ├── public/
+│ ├── src/
+│ └── food frontend/ # Folder seen in user directory listing
+│
+├── backend/ # Node.js + Express REST API
+│ ├── .env
+│ ├── .gitignore
+│ ├── server.js
+│ ├── package.json
+│ ├── package-lock.json
+│ ├── config/ # DB, environment configuration
+│ ├── controllers/ # Route logic controllers
+│ ├── middleware/ # Request middlewares (auth, validation)
+│ ├── models/ # Mongoose schemas / collections
+│ ├── routes/ # Express API routes
+│ ├── uploads/ # Image uploads via multer
+│ └── node_modules/
+│
+└── admin/ # Admin dashboard (React + Vite)
+├── .eslintrc.cjs
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── public/
+├── src/
+└── node_modules/
+
