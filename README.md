@@ -102,7 +102,22 @@ The **food-del** project is organized into three main parts:
 - **Coupon / discount system** for promotions  
 - **Delivery partner module** (tracking, assigning orders)  
 - **Admin analytics dashboard** (sales insights, order metrics)  
-- **Multi-admin role support** with role-based permissions  
+- **Multi-admin role support** with role-based permissions
+
+---
+
+## 🌐 Live Project Links
+
+The project is deployed and accessible online using Render.
+
+### 🔗 Main User Website
+**Frontend:**  
+https://yum-yum-frontend-c1g2.onrender.com/
+
+### 🔗 Admin Panel
+**Admin Dashboard:**  
+https://yum-yum-admin.onrender.com/
+
 
 
 
