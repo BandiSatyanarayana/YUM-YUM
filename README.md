@@ -69,6 +69,25 @@ The **food-del** project is organized into three main parts:
 <img width="1873" height="814" alt="image" src="https://github.com/user-attachments/assets/c048fecd-fe4e-4b7e-b263-a6a0f64ddc33" />
 
 ---
+## 🖥️ Frontend Setup (User Website)
+### 1. Go to frontend folder
+cd ../frontend
+npm install
+npm run dev
+
+#### Frontend runs at:
+http://localhost:5173
+
+## 🛠️ Admin Panel Setup
+### 1. Go to admin folder
+cd ../admin
+npm install
+npm run dev
+
+#### Admin runs at:
+http://localhost:5174
+
+---
 
 ## 🧩 Assumptions
 
