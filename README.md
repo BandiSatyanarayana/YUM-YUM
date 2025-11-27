@@ -53,51 +53,8 @@ The **food-del** project is organized into three main parts:
 3. **backend** – Server-side API  
 
 Below is the full project directory structure:
-food-del/
-│
+<img width="1054" height="862" alt="image" src="https://github.com/user-attachments/assets/f6d026b4-8ff9-4230-a0cb-abf35a4a6d88" />
+<img width="960" height="796" alt="image" src="https://github.com/user-attachments/assets/29bfdf89-87e6-4a41-bfec-3cbae673f585" />
+<img width="917" height="569" alt="image" src="https://github.com/user-attachments/assets/0f6c5bab-a286-49f7-9988-dac9b02486c7" />
 
-├── frontend/ # User-facing React application (Vite)
-
-│ ├── .eslintrc.cjs
-
-│ ├── .gitignore
-
-│ ├── index.html
-
-│ ├── package.json
-
-│ ├── package-lock.json
-
-│ ├── vite.config.js
-
-│ ├── public/
-
-│ ├── src/
-
-│ └── food frontend/ # Folder seen in user directory listing
-│
-├── backend/ # Node.js + Express REST API
-│ ├── .env
-│ ├── .gitignore
-│ ├── server.js
-│ ├── package.json
-│ ├── package-lock.json
-│ ├── config/ # DB, environment configuration
-│ ├── controllers/ # Route logic controllers
-│ ├── middleware/ # Request middlewares (auth, validation)
-│ ├── models/ # Mongoose schemas / collections
-│ ├── routes/ # Express API routes
-│ ├── uploads/ # Image uploads via multer
-│ └── node_modules/
-│
-└── admin/ # Admin dashboard (React + Vite)
-├── .eslintrc.cjs
-├── .gitignore
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── public/
-├── src/
-└── node_modules/
 
