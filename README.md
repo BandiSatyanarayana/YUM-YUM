@@ -55,15 +55,25 @@ The **food-del** project is organized into three main parts:
 Below is the full project directory structure:
 food-del/
 │
+
 ├── frontend/ # User-facing React application (Vite)
+
 │ ├── .eslintrc.cjs
+
 │ ├── .gitignore
+
 │ ├── index.html
+
 │ ├── package.json
+
 │ ├── package-lock.json
+
 │ ├── vite.config.js
+
 │ ├── public/
+
 │ ├── src/
+
 │ └── food frontend/ # Folder seen in user directory listing
 │
 ├── backend/ # Node.js + Express REST API
