@@ -71,18 +71,18 @@ The **food-del** project is organized into three main parts:
 ---
 ## 🖥️ Frontend Setup (User Website)
 ### 1. Go to frontend folder
-cd ../frontend
-npm install
-npm run dev
+- cd ../frontend
+- npm install
+- npm run dev
 
 #### Frontend runs at:
 http://localhost:5173
 
 ## 🛠️ Admin Panel Setup
 ### 1. Go to admin folder
-cd ../admin
-npm install
-npm run dev
+- cd ../admin
+- npm install
+- npm run dev
 
 #### Admin runs at:
 http://localhost:5174
