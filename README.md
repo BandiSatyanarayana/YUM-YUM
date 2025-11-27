@@ -8,3 +8,38 @@ The system includes:
 🔐 Admin dashboard (manage items, orders, uploads)
 
 🗄️ Backend API (authentication, product/food management, orders, uploads)
+
+🚀 Tech Stack
+Frontend (User + Admin – Vite)
+
+React.js
+
+Vite
+
+TailwindCSS / CSS
+
+Axios
+
+React Router
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB (Mongoose ORM)
+
+Multer (image uploads)
+
+JWT Authentication
+
+dotenv
+
+Tools
+
+npm
+
+Postman (API testing)
+
+Git & GitHub
