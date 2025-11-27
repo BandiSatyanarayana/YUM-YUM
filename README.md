@@ -87,6 +87,21 @@ http://localhost:5173
 #### Admin runs at:
 http://localhost:5174
 
+## ⚙️ Backend Setup
+### 1. Go to backend folder
+- ```bash
+- cd backend
+- npm install
+
+### 2. Create .env file
+- PORT=4000
+- MONGO_URI=your-mongodb-url
+- JWT_SECRET=your-secret-key
+- STRIPE_SECRET_KEY=your-stripe-secret   
+
+### 3. Start backend server
+- npm run server
+
 ---
 
 ## 🧩 Assumptions
