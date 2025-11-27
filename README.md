@@ -89,7 +89,6 @@ http://localhost:5174
 
 ## ⚙️ Backend Setup
 ### 1. Go to backend folder
-- ```bash
 - cd backend
 - npm install
 
