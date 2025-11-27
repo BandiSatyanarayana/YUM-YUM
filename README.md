@@ -57,6 +57,19 @@ The **food-del** project is organized into three main parts:
 
 ---
 
+## 🖼️ Screenshots
+- Main
+<img width="1730" height="843" alt="image" src="https://github.com/user-attachments/assets/72bce082-51a8-47d9-8fc9-36620179002a" />
+<img width="1651" height="365" alt="image" src="https://github.com/user-attachments/assets/6a8096a6-a307-4e97-a63b-7eea43037835" />
+<img width="1705" height="871" alt="image" src="https://github.com/user-attachments/assets/6973d959-763b-4775-86cf-6c7741fc79bb" />
+
+-Admin
+<img width="1867" height="886" alt="image" src="https://github.com/user-attachments/assets/a053140b-693b-446d-9156-f396e4d73918" />
+<img width="1886" height="739" alt="image" src="https://github.com/user-attachments/assets/4a39b7f9-ea20-4ca2-a074-1e92f323eb35" />
+<img width="1873" height="814" alt="image" src="https://github.com/user-attachments/assets/c048fecd-fe4e-4b7e-b263-a6a0f64ddc33" />
+
+---
+
 ## 🧩 Assumptions
 
 - Users can browse the menu without logging in.
