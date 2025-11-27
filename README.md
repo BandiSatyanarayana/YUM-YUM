@@ -1,74 +1,49 @@
-🍽️ Yam-Yam – Full-Stack Food Delivery Website
+# 🍽️ Yam-Yam – Full-Stack Food Delivery Platform
 
-Yam-Yam is a full-stack food delivery platform consisting of:
+Yam-Yam is a complete food delivery system composed of:
 
-->👤 User Website – Browse food, add to cart, place orders
+- 👤 **User Website** (React + Vite)
+- 🛠️ **Admin Panel** (React + Vite)
+- 🗄️ **Backend API** (Node.js + Express + MongoDB)
 
-->🛠️ Admin Dashboard – Manage items, orders, uploads
+The platform supports menu browsing, cart management, order placement, food item management, image uploads, JWT authentication, toast notifications, and optional Stripe payments.
 
-->🗄️ Backend REST API – Authentication, products, orders, file uploads
+---
 
-This project uses React + Vite (frontend/admin) and Node.js + Express + MongoDB (backend).
+## 🚀 Tech Stack & Tools
 
-🧰 Tools Used
-🖥️ Frontend Tools
+### 🖥️ Frontend (User Website)
+- React 18
+- Vite
+- React Router DOM
+- Axios
+- React Toastify
+- Stripe JS
+- ESLint + React plugins
 
-React
+### 🛠️ Admin Panel
+- React
+- Vite
+- React Router DOM
+- Axios
+- React Toastify
+- ESLint + React plugins
 
-Vite
+### 📡 Backend
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- Multer (image uploads)
+- JSON Web Token (JWT)
+- Stripe SDK
+- Validator
+- bcrypt
+- body-parser
+- cors
+- dotenv
+- nodemon
 
-React Router DOM
+---
 
-Axios
-
-React Toastify
-
-Stripe JS SDK
-
-ESLint
-
-@vitejs/plugin-react
-
-🛠️ Admin Panel Tools
-
-React
-
-Vite
-
-React Router DOM
-
-Axios
-
-React Toastify
-
-ESLint
-
-@vitejs/plugin-react
-
-📡 Backend Tools
-
-Node.js
-
-Express.js
-
-MongoDB + Mongoose
-
-Multer (file uploads)
-
-JSON Web Token (JWT)
-
-Stripe SDK
-
-Validator
-
-bcrypt
-
-body-parser
-
-CORS
-
-dotenv
-
-nodemon
-
+## 📁 Project Structure
 
