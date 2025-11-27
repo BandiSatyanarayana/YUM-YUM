@@ -53,8 +53,6 @@ The **food-del** project is organized into three main parts:
 3. **backend** – Server-side API  
 
 Below is the full project directory structure:
-<img width="1054" height="862" alt="image" src="https://github.com/user-attachments/assets/f6d026b4-8ff9-4230-a0cb-abf35a4a6d88" />
-<img width="960" height="796" alt="image" src="https://github.com/user-attachments/assets/29bfdf89-87e6-4a41-bfec-3cbae673f585" />
-<img width="917" height="569" alt="image" src="https://github.com/user-attachments/assets/0f6c5bab-a286-49f7-9988-dac9b02486c7" />
+<img width="444" height="829" alt="image" src="https://github.com/user-attachments/assets/79d6336d-25d3-4655-a5b1-0a92fe378b6b" />
 
 
